@@ -41,6 +41,20 @@ conda activate musicola
 conda install --file requirements.txt -y
 ```
 
+For reference, these are the versions of the dependencies I used at the time: 
+- Conda 4.10.3, py38h578d9bd_3 (conda-forge)
+- Python 3.8.12, hb7a2778_2_cpython (conda-forge)
+- Raxml 8.2.12, h779adbc_3 (bioconda)
+- Perl 5.26.2, h36c2ea0_1008 (conda-forge)
+- biopython 1.79, py38h497a2fe_0 (conda-forge)
+- orthofinder 2.5.4, hdfd78af_0 (bioconda)
+- parsnp 1.2
+- prodigal 2.6.3
+- pyani 0.3.0a0, dev_0 (not conda, from git) 
+- tqdm 4.62.3, pyhd8ed1ab_0 (conda-forge)
+- t-coffee 12.00.7fb08c2, h26a2512_0 (bioconda)
+
+
 All scripts used to generate the phylogenomic analysis are found in the `scripts/` subdirectory, and can be run in order to regenerate the analysis:
 
 ```bash
