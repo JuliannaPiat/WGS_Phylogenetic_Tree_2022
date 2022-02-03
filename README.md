@@ -48,10 +48,11 @@ scripts/download_genomes.sh
 scripts/annotate_genomes.sh
 scripts/run_anim.sh
 scripts/find_orthologues.sh
+python3 scripts/select_scos.py
 scripts/align_scos.sh
-python scripts/extract_cds.py
+python3 scripts/extract_cds.py
 scripts/backtranslate.sh
-python scripts/concatenate_cds.py
+python3 scripts/concatenate_cds.py
 scripts/build_tree.sh
 ```
 
