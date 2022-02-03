@@ -6,7 +6,7 @@ This repository contains supporting material relating to phylogenetic and `pyani
 
 > Hugovieux-Cotte-Pattat, N., Jacot-des-Combes, C., Briolay, J. & Pritchard, L. (2021) "Proposal for the creation of a new genus *Musicola* gen. nov., reclassification of *Dickeya paradisiaca* (Samson et al. 2005) as *Musicola paradisiaca* comb. nov. and description of a new species *Musicola keenii* sp. nov." *Int. J. Syst. Evol. Microbiol.*
 
-#![Phylogenomic tree of *Pectobacteriaceae* showing placement of *Musicola*](./figures/figure_3.png)
+![insert phylogenetic tree here](./figures/figure_tree.png)
 
 ------------------------------------------
 ## How to use this repository
