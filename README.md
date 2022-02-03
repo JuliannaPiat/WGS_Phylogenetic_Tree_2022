@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4546299.svg)](https://doi.org/10.5281/zenodo.4546299)
 
-This repository contains supporting material relating to phylogenetic and `pyani` analyses of the *Dickeya*/*Musicola* genus, as reported in:
+This repository contains supporting material relating to phylogenetic and `pyani` analyses of the *Pseudomonas* genus. The approach and code are adapted from:
 
 > Hugovieux-Cotte-Pattat, N., Jacot-des-Combes, C., Briolay, J. & Pritchard, L. (2021) "Proposal for the creation of a new genus *Musicola* gen. nov., reclassification of *Dickeya paradisiaca* (Samson et al. 2005) as *Musicola paradisiaca* comb. nov. and description of a new species *Musicola keenii* sp. nov." *Int. J. Syst. Evol. Microbiol.*
 
